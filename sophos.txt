@@ -1,0 +1,3118 @@
+======================================================
+H11:20:29  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 93
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"policyCount":1,"policyMetaCount":1}&__RequestType=ajax&t=1691421628963
+======================================================
+
+
+
+======================================================
+H11:20:29  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["policydata"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421628962
+======================================================
+
+
+
+======================================================
+H11:20:31  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 70
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"hbStatus":1}&__RequestType=ajax&t=1691421630962
+======================================================
+
+
+
+======================================================
+H11:20:31  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 152
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"eacAllAppsCount":1,"eacNewAppsCount":1,"eacCategorizedAppsCount":1,"hbStatus":1,"eacStatus":1}&__RequestType=ajax&t=1691421630963
+======================================================
+
+
+
+======================================================
+H11:20:31  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["policyconn"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421630964
+======================================================
+
+
+
+======================================================
+H11:20:32  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 100
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["cpu"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421630965
+======================================================
+
+
+
+======================================================
+H11:20:32  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["zone_total"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421630964
+======================================================
+
+
+
+======================================================
+H11:20:33  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 74
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1329&json={"reqmode":"svr_status"}&__RequestType=ajax&t=1691421631964
+======================================================
+
+
+
+======================================================
+H11:20:41  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 70
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"hbStatus":1}&__RequestType=ajax&t=1691421641043
+======================================================
+
+
+
+======================================================
+H11:20:41  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 152
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 31lels1ae5lc5ttsroeecllo1k
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"eacAllAppsCount":1,"eacNewAppsCount":1,"eacCategorizedAppsCount":1,"hbStatus":1,"eacStatus":1}&__RequestType=ajax&t=1691421641078
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /webconsole/webpages/logout.jsp HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=151ezgv31exwaubgn793hofsn13; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /webconsole/webpages/login.jsp HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/typography.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/loginstylesheet.css?ver=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/validation/OEM.js?ver=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/validation/JavaConstants.js?ver=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /images/logo/group-small-on-dark.png?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/validation/login.js?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/fonts/SophosSans-Regular.woff2 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Origin: https://172.16.16.16:4444
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://172.16.16.16:4444/themes/lite1/css/typography.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/react-0.12.2/react.js?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /images/banner.png?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/lang/Chinese-Simplified/common.js?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/jQueryYUI.js?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:42  https://172.16.16.16:4444
+======================================================
+GET /javascript/common_min.js?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:52  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=4y28xwt98ulteatp53ectuel14; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 188
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/plain, */*; q=0.01
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=151&json=%7B%22username%22%3A%22admin%22%2C%22password%22%3A%22123test!%40%23X%22%2C%22languageid%22%3A%224%22%2C%22browser%22%3A%22Chrome_115%22%7D&__RequestType=ajax&t=1691421651444
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /webconsole/webpages/index.jsp HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://172.16.16.16:4444/webconsole/webpages/login.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /css/passwordStrength.css?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/control-center.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /css/passwordStrengthMeter.css?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/lite1css/container.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/lite1css/reports.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/typography.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/Sophos-Icons.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/font-awesome.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/javascript/theme.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /images/logo/logo.png?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/userSnap.js?v=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/password_strength_lightweight.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/countryinfo.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/lang/Chinese-Simplified/calendar-lang.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/validation/OEM.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/globalSearchService.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/lang/Chinese-Simplified/OEM.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/validation/JavaConstants.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/react-0.12.2/react.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/eventstatus.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/lang/English/report.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/lang/Chinese-Simplified/report.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/react-components/menu-data.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/lang/English/OEM.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/lang/Chinese-Simplified/report_extra.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/icomoon.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/lang/English/report_extra.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/css/common_min.css?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: text/css,*/*;q=0.1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: style
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/FusionCharts/fusioncharts.charts.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/lang/Chinese-Simplified/common.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/report.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /iview/FusionCharts/fusioncharts.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:54  https://172.16.16.16:4444
+======================================================
+GET /javascript/lang/English/common.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /javascript/common_min.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /iview/javascript/common_pdfmake.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: script
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/images/loading.gif?a=19.5.3.652 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/themes/lite1/css/common_min.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/fonts/SophosSans-Light.woff2 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Origin: https://172.16.16.16:4444
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://172.16.16.16:4444/themes/lite1/css/typography.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/fonts/SophosSans-Medium.woff2 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Origin: https://172.16.16.16:4444
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://172.16.16.16:4444/themes/lite1/css/typography.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/fonts/fontawesome-webfont.woff?v=4.2.0 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Origin: https://172.16.16.16:4444
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://172.16.16.16:4444/themes/lite1/css/font-awesome.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 19
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=74&queryNo=0
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 19
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=74&queryNo=1
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 19
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=74&queryNo=2
+======================================================
+
+
+
+======================================================
+H11:20:55  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?&mode=1284&json={}&__RequestType=ajax&t=1691421655198 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?mode=300&operation=1322&_=1691421655066 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: */*
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /webconsole/javascript/validation/ControlCenter.js?ver=19.5.3.652 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /webconsole/webpages/ControlCenter.html?mode=300&operation=1322&popup=0&t=19.5.3.652 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: */*
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /images/no-data-2-2x.png HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /images/no-data-1-2x.png HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /webconsole/javascript/validation/EncryptionPasswordPopup.js?ver=19.5.3.652 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 78
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"wirelessAPStatus":1}&__RequestType=ajax&t=1691421656738
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 79
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1328&json={}&requestObj={"redStatus":1}&__RequestType=ajax&t=1691421656736
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 71
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"atpStatus":1}&__RequestType=ajax&t=1691421656733
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 42
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"reportDetails":"1"}
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /images/icons/cc-system-sprite.png HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/fonts/Sophos-Icon-Font.woff?v=V45_4_05092019 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Origin: https://172.16.16.16:4444
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: font
+Referer: https://172.16.16.16:4444/themes/lite1/css/Sophos-Icons.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 70
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"hbStatus":1}&__RequestType=ajax&t=1691421656718
+======================================================
+
+
+
+======================================================
+H11:20:56  https://172.16.16.16:4444
+======================================================
+GET /webconsole/webpages/dashboard/EncryptionPasswordPopup.html?popup=1&t=19.5.3.652&_=1691421655068 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: */*
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 80
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"userThreatQuotient":1}&__RequestType=ajax&t=1691421656734
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 69
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"vpnInfo":1}&__RequestType=ajax&t=1691421656712
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 71
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"liveUsers":1}&__RequestType=ajax&t=1691421656742
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 93
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"policyCount":1,"policyMetaCount":1}&__RequestType=ajax&t=1691421656785
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 32
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"alert":1}
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+GET /themes/lite1/images/ICONS_24px.png?a=19.5.3.652 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://172.16.16.16:4444/themes/lite1/css/common_min.css?version=6fba66d8e17a7f3469d48402e4bd3176
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 69
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"cpuInfo":1}&__RequestType=ajax&t=1691421656707
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 152
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"eacAllAppsCount":1,"eacNewAppsCount":1,"eacCategorizedAppsCount":1,"hbStatus":1,"eacStatus":1}&__RequestType=ajax&t=1691421656730
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 73
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"remoteUsers":1}&__RequestType=ajax&t=1691421656740
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 73
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"networkInfo":1}&__RequestType=ajax&t=1691421656710
+======================================================
+
+
+
+======================================================
+H11:20:57  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 104
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["loadavg"],"time":["weekly"],"filter":["NA"]}&__RequestType=ajax&t=1691421657130
+======================================================
+
+
+
+======================================================
+H11:20:58  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?Entity=sandboxcounters&Event=READ&mode=2808&json=%7B%7D&__RequestType=ajax&t=1691421656728&_=1691421655067 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:20:58  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 32
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"alert":1}
+======================================================
+
+
+
+======================================================
+H11:20:58  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 103
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["memory"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421656779
+======================================================
+
+
+
+======================================================
+H11:20:59  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["policyconn"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421656782
+======================================================
+
+
+
+======================================================
+H11:20:59  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 39
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"trafficsight":1}
+======================================================
+
+
+
+======================================================
+H11:20:59  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 543
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=2&json={"width":574.5,"height":200,"isSort":false,"viewAll":true,"table":"on","Graph":"on","graphLimit":10,"groupQuery":false,"returnReportGroupID":-1,"originReportGroup":-1,"returnReportID":-1,"detailReport":-1,"detailReportView":false,"reportTitleLink":true,"type":"G","filter":{"lastday":7,"utqDate":"","tempUtqDate":"","recordPerPage":5,"currentPage":1,"startDate":"2023-08-03 05:13:56","endDate":"2023-08-04 05:13:56","criteria":[],"reportCriteria":[],"limit":5,"offset":0,"sort":{}},"id":97001050,"index":0,"reportGroupid":900000}
+======================================================
+
+
+
+======================================================
+H11:21:00  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 549
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=2&json={"width":574.5,"height":200,"isSort":false,"viewAll":true,"table":"on","Graph":"on","graphLimit":10,"groupQuery":false,"returnReportGroupID":-1,"originReportGroup":-1,"returnReportID":-1,"detailReport":-1,"detailReportView":false,"reportTitleLink":true,"type":"G","filter":{"lastday":7,"utqDate":"","tempUtqDate":"","recordPerPage":5,"currentPage":1,"startDate":"2023-08-03 05:13:56","endDate":"2023-08-04 05:13:56","criteria":[],"reportCriteria":[],"limit":5,"offset":0,"sort":{}},"id":1996000000,"index":1,"reportGroupid":1998000010}
+======================================================
+
+
+
+======================================================
+H11:21:00  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 549
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=2&json={"width":574.5,"height":200,"isSort":false,"viewAll":true,"table":"on","Graph":"on","graphLimit":10,"groupQuery":false,"returnReportGroupID":-1,"originReportGroup":-1,"returnReportID":-1,"detailReport":-1,"detailReportView":false,"reportTitleLink":true,"type":"G","filter":{"lastday":7,"utqDate":"","tempUtqDate":"","recordPerPage":5,"currentPage":1,"startDate":"2023-08-03 05:13:56","endDate":"2023-08-04 05:13:56","criteria":[],"reportCriteria":[],"limit":5,"offset":0,"sort":{}},"id":1997000000,"index":2,"reportGroupid":1999000010}
+======================================================
+
+
+
+======================================================
+H11:21:00  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 543
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=2&json={"width":574.5,"height":200,"isSort":false,"viewAll":true,"table":"on","Graph":"on","graphLimit":10,"groupQuery":false,"returnReportGroupID":-1,"originReportGroup":-1,"returnReportID":-1,"detailReport":-1,"detailReportView":false,"reportTitleLink":true,"type":"G","filter":{"lastday":7,"utqDate":"","tempUtqDate":"","recordPerPage":5,"currentPage":1,"startDate":"2023-08-03 05:13:56","endDate":"2023-08-04 05:13:56","criteria":[],"reportCriteria":[],"limit":5,"offset":0,"sort":{}},"id":42000000,"index":1,"reportGroupid":400000}
+======================================================
+
+
+
+======================================================
+H11:21:00  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 100
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["cpu"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421656778
+======================================================
+
+
+
+======================================================
+H11:21:01  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["zone_total"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421656780
+======================================================
+
+
+
+======================================================
+H11:21:02  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=557&json={"graph":["policydata"],"time":["hourly"],"filter":["NA"]}&__RequestType=ajax&t=1691421656784
+======================================================
+
+
+
+======================================================
+H11:21:02  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 74
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1329&json={"reqmode":"svr_status"}&__RequestType=ajax&t=1691421656709
+======================================================
+
+
+
+======================================================
+H11:21:03  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?mode=557&json=%7B%22filter%22%3A%5B%22N%2FA%22%5D%2C%22graph%22%3A%5B%22ssl_curr_summary%22%5D%2C%22time%22%3A%5B%22hourly%22%5D%7D&_=1691421656698 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:03  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 32
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"alert":1}
+======================================================
+
+
+
+======================================================
+H11:21:04  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?mode=2705&json={}&__RequestType=ajax&t=1691421658396&_=1691421655069 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:04  https://172.16.16.16:4444
+======================================================
+POST /webconsole/Controller? HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 107
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: text/plain, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+mode=1322&requestObj={"haInfo":1,"uptime":1,"sfmInfo":1,"centralInfo":1}&__RequestType=ajax&t=1691421656705
+======================================================
+
+
+
+======================================================
+H11:21:05  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?mode=300&operation=1322&_=1691421656725 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:05  https://172.16.16.16:4444
+======================================================
+GET /webconsole/AjaxController?json=%7B%22width%22%3A2079%2C%22height%22%3A250%2C%22isSort%22%3Atrue%2C%22viewAll%22%3Afalse%2C%22table%22%3A%22on%22%2C%22Graph%22%3A%22on%22%2C%22graphLimit%22%3A10%2C%22groupQuery%22%3Afalse%2C%22returnReportGroupID%22%3A-1%2C%22originReportGroup%22%3A-1%2C%22returnReportID%22%3A-1%2C%22detailReport%22%3A-1%2C%22detailReportView%22%3Afalse%2C%22reportTitleLink%22%3Atrue%2C%22type%22%3A%22S%22%2C%22filter%22%3A%7B%22isOldReports%22%3Afalse%2C%22lastday%22%3A7%2C%22utqDate%22%3A%22%22%2C%22tempUtqDate%22%3A%22%22%2C%22recordPerPage%22%3A10%2C%22currentPage%22%3A1%2C%22startDate%22%3A%222023-08-04%2000%3A00%3A00%22%2C%22endDate%22%3A%222023-08-04%2023%3A59%3A59%22%2C%22criteria%22%3A%5B%5D%2C%22reportCriteria%22%3A%5B%5D%2C%22limit%22%3A10%2C%22offset%22%3A0%2C%22sort%22%3A%7B%7D%7D%2C%22id%22%3A%221997005010%22%2C%22reportGroupid%22%3A%2299900%22%7D&action=2&&_=1691421655070 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:05  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?mode=300&operation=1322&_=1691421656700 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:06  https://172.16.16.16:4444
+======================================================
+POST /webconsole/AjaxController HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Content-Length: 361
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/xml, text/xml, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+Sec-Ch-Ua-Platform: "Windows"
+Origin: https://172.16.16.16:4444
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+action=2&json=%7B%22table%22%3A%22on%22%2C%22viewAll%22%3Atrue%2C%22filter%22%3A%7B%22startDate%22%3A%222023-08-04+00%3A00%3A00%22%2C%22endDate%22%3A%222023-08-04+23%3A59%3A59%22%2C%22limit%22%3A10%2C%22offset%22%3A0%2C%22criteria%22%3A%5B%5D%2C%22reportCriteria%22%3A%5B%5D%2C%22sort%22%3A%7B%7D%7D%2C%22id%22%3A2110023050%2C%22reportGroupid%22%3A2110000060%7D
+======================================================
+
+
+
+======================================================
+H11:21:06  https://172.16.16.16:4444
+======================================================
+GET /webconsole/javascript/validation/ManagePage.js?ver=19.5.3.652 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:07  https://172.16.16.16:4444
+======================================================
+GET /webconsole/webpages/includes/ManagePage.jsp?datagridid=32&mode=301&operation=239&popup=0&t=1691421666707&_=1691421655071 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: */*
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:07  https://172.16.16.16:4444
+======================================================
+GET /javascript/validation/LiveUserManage.js?version=6fba66d8e17a7f3469d48402e4bd3176 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+Accept: text/javascript, application/javascript, application/ecmascript, application/x-ecmascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
+======================================================
+H11:21:07  https://172.16.16.16:4444
+======================================================
+GET /webconsole/Controller?mode=301&datagridid=32&sort=&dir=&startIndex=0&results=50&filter=&t=1691421667378 HTTP/1.1
+Host: 172.16.16.16:4444
+Cookie: JSESSIONID=1oziu2jzjwibb1fzdnhr7dr8sg15; wfx_unq=QgEnjy5w73lfRnON
+Sec-Ch-Ua: "Not/A)Brand";v="99", "Google Chrome";v="115", "Chromium";v="115"
+X-Requested-With: XMLHttpRequest
+X-Csrf-Token: 82f6mnadp61a5uaurpfv8h46r8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36
+Sec-Ch-Ua-Platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://172.16.16.16:4444/webconsole/webpages/index.jsp
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-CN,zh;q=0.9,en;q=0.8
+Connection: close
+
+
+======================================================
+
+
+
